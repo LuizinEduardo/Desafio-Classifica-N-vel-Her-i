@@ -1,5 +1,5 @@
 
-# Projeto do Curso de Lógica de Programação da DIO
+# Primeiro Projeto do Curso de Lógica de Programação da DIO
 
 ## Desafio Classificação Nivel do Herói.
 
